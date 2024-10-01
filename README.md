@@ -1,2 +1,2 @@
-# MyProject
-Dummy project here
+# OdinProject-AdminDashboard
+odin project admin dashboard assignment
